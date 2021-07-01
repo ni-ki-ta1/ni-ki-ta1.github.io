@@ -1,0 +1,29 @@
+
+		p 
+		{
+			color: white;
+			font-size: 100px;
+			font-family: Arial;
+		}
+		div
+		{
+			padding: 10px 100px;
+			margin: 100px;
+	        background-color: black;
+			width: 58.5%;
+			color: yellow;
+			box-shadow: 10px 10px 0px 10px rgba(225, 225, 225, 1);
+		}
+		a
+		{
+			text-decoration: none;
+			color: white;
+			display: block;
+			border-bottom: 1px solid;
+			transition: 1s ease-out;
+		}
+		a:hover
+		{
+			border-bottom-color: white;
+			font-size: 10%
+		}
